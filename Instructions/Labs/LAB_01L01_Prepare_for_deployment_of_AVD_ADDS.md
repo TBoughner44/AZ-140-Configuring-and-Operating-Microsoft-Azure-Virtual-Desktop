@@ -1,4 +1,4 @@
---- Test Patch 2
+--- Test Patch 2 Let's see what this does
 lab:
     title: 'Lab: Prepare for deployment of Azure Virtual Desktop (AD DS)'
     module: 'Module 1: Plan a AVD Architecture'
